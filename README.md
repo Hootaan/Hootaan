@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hootaan
 - 👀 I’m interested in machine learning, artificial intelligence and cloud computing.
-- 🌱 I’m currently learning D3.JS  
+- 🌱 I’m currently working on machine learning and building services with generative AI APIs  
 - 💞️ I’m looking to collaborate on data visualization projects
 <!-- - 📫 How to reach me ... -->
 
