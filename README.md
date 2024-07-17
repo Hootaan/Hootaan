@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hootaan
 - 👀 I’m interested in data visualization, machine learning, artificial intelligence and cloud computing.
 - 🌱 I’m currently working on machine learning and building services with generative AI APIs  
-- 💞️ I’m looking to collaborate on data visualization projects
+- 💞️ I’m looking to collaborate on RAG and data visualization projects
 <!-- - 📫 How to reach me ... -->
 
 <!---
